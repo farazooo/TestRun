@@ -6,3 +6,4 @@ for (let i = 0; i < 90; i++) {
     console.log(a);
   }
 }
+console.log("faraz ik chawal insan ha!!!!");
